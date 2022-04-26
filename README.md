@@ -1,11 +1,3 @@
 - 👋 Hi, I’m @tor-cyolo
-- look at https://youtube.qa.cyolo.io/
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tor-cyolo/tor-cyolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- look at https://youtube.stg.cyolo.io/
+- look at https://github.qa.cyolo.io/
